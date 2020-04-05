@@ -13,6 +13,8 @@ body {
 	flex-wrap: wrap;
 }
 
+.center{ text-align: center; }
+
 .card {
 	position: relative;
 	width: 400px;

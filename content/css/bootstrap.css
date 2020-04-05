@@ -6039,7 +6039,8 @@ button.close {
   display: inline-block;
   width: 20px;
   height: 20px;
-  background: #8a8a8a no-repeat center center;
+/*  background: #8a8a8a no-repeat center center;*/
+  background: no-repeat center center;
   background-size: 100% 100%;
 }
 
