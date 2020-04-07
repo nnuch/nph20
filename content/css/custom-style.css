@@ -52,7 +52,7 @@ hr {width: 40%; border-top: 1px solid #f5f5f5 ;}
   background-color: #57ba98;
 }
 @media (max-width: 768px) {
-.badge-me {font-size: 12px;}
+.badge-me {font-size: 13px;}
 }
 
 .badge{margin: 2px;}
